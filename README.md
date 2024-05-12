@@ -30,8 +30,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to create and design an android application that draws basic graphical primitives on the screen.
-Developed by: SYED JAVEED H
-Registeration Number : 212221220055
+Developed by: YUVARAJ B
+Registeration Number : 212221040187
 */
 ```
 ## ACTIVITY_MAIN.XML
@@ -100,9 +100,10 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-## OUTPUT
-![image](https://github.com/SyedJaveed786/graphicsinandroid/assets/106874713/58b217dd-01bb-4709-a034-74eb44f30fad)
 
+## OUTPUT
+
+![325468593-ae414436-b09b-4bcb-a610-fef3bebbda3e](https://github.com/yuvaraj-csk/graphicsinandroid/assets/134052574/78e4d9d0-d31d-4279-94ef-a328bc10957c)
 
 
 
